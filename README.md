@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I am Abhinav
 
-<!--
-**abhinavyadav11/abhinavyadav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+add from gpt blwnd yourself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Github Stats
+
+![Stats 1](https://github-readme-stats.vercel.app/api?username=abhinavyadav11)
+
+![Stats 1](https://github-readme-streak-stats.herokuapp.com/?user=abhinavyadav11)
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavyadav11)
+
+- 🔭 I’m currently working on Data Science 
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on Machine Learning
+- 💬 Ask me about Deep Learning
+- 📫 How to reach me: abhijust36@gmail.com
+- 😄 Pronouns: He/Him
+- 🥇 
+
+
+
+
+
+

@@ -2,7 +2,7 @@
 
 ### About Me
 
-add from gpt blwnd yourself
+I am AI/ML Developer holding strong fundamental to take the idea to the product, skilled in python, machine learning, deep learning, sql.
 
 ### My Github Stats
 
